@@ -1,7 +1,7 @@
-# 🧩 PHP CRUD Application (OOP Based)
+# 🧩 PHP CRUD Application (OOPs Based)
 
 ## 📋 Overview
-This project is a **PHP-based CRUD (Create, Read, Update, Delete)** application developed using **Object-Oriented Programming (OOP)** concepts.  
+This project is a **PHP-based CRUD (Create, Read, Update, Delete)** application developed using **Object-Oriented Programming (OOPs)** concepts.  
 It demonstrates how to perform basic database operations in a structured and reusable way with classes and methods.
 
 ---
@@ -17,7 +17,7 @@ It demonstrates how to perform basic database operations in a structured and reu
 ---
 
 ## 🛠️ Technologies Used
-- **PHP (OOP)**  
+- **PHP (OOPs)**  
 - **MySQL**  
 - **HTML / CSS**  
 - **Bootstrap (optional)**  
@@ -27,7 +27,7 @@ It demonstrates how to perform basic database operations in a structured and reu
 
 ## 🧠 Project Structure
 ```
-/PHP-OOP-CRUD
+/PHP-OOPs-CRUD
 │
 ├── db_connect.php        # Database connection class
 ├── user.php              # User class with CRUD methods
@@ -57,7 +57,7 @@ It demonstrates how to perform basic database operations in a structured and reu
 ---
 
 ## 📚 Learning Outcome
-- Understanding OOP principles in PHP  
+- Understanding OOPs principles in PHP  
 - Applying CRUD operations with clean and reusable code  
 - Using classes and database abstraction  
 
